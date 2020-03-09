@@ -1,4 +1,5 @@
 #!/bin/bash
+#@author: Matheus Nicéas
 
 #eval apt-get -y update && apt-get -y upgrade
 eval apt-get -y update
